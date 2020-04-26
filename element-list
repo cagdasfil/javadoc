@@ -1,0 +1,13 @@
+group10.client
+group10.client.api
+group10.client.controller
+group10.client.game
+group10.client.model.client
+group10.client.model.server
+group10.server
+group10.server.api
+group10.server.config
+group10.server.exception
+group10.server.model
+group10.server.repository
+group10.server.service
