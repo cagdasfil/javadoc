@@ -4,6 +4,7 @@ group10.client.controller
 group10.client.game
 group10.client.model.client
 group10.client.model.server
+group10.client.multiplayer
 group10.server
 group10.server.api
 group10.server.config
